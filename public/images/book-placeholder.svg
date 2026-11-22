@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" role="img" aria-label="Book cover placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d6d3d1"/>
+      <stop offset="100%" stop-color="#a8a29e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#bg)"/>
+  <rect x="48" y="56" width="304" height="388" rx="8" fill="#fffcf7" stroke="#b45309" stroke-width="3"/>
+  <path fill="#b45309" d="M120 200h160v20H120zm0 48h200v16H120zm0 40h160v16H120zm0 40h120v16H120z" opacity="0.35"/>
+  <path fill="#b45309" d="M168 148c0-26 21-48 48-48h16v96h-16c-27 0-48-22-48-48z" opacity="0.5"/>
+  <text x="200" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#57534e">BookNook</text>
+</svg>
